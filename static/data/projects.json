@@ -1,0 +1,122 @@
+[
+    {
+        "title": "Paper Pulse AI",
+        "description": "Designed and implemented an AI platform that converts any research paper into interactive podcast formats, increasing accessibility for academic material. Achieved a 20% reduction in text-to-speech latency through optimization of GPT-4o-mini and custom Text-toSpeech APIs.",
+        "image": "static/images/p1.png",
+        "tags": ["LLM", "Fine-tuning","Prompting", "OpenAI"],
+        "buttons": [
+            {"text": "GitHub", "link": "https://github.com/dareaf/Researh-Paper-to-Podcast", "icon": "fa-brands fa-github"},
+            {"text": "Demo", "link": "https://researh-paper-to-podcast.streamlit.app/", "icon": "fa-solid fa-play"}
+        ]
+    },
+    {
+        "title": "ClauseWise AI",
+        "description": "Engineered a platform that performs in-depth contract analysis, red-lining and many more. Automating legal tasks using OpenAi models and RAG",
+        "image": "static/images/p2.png",
+        "tags": ["LLM", "Fine-tuning", "Legal", "GPT-4o-mini"],
+        "buttons": [
+            {"text": "GitHub", "link": "https://github.com/dareaf/ClauseWise-AI", "icon": "fa-brands fa-github"},
+            {"text": "Demo", "link": "https://clausewise-ai.streamlit.app/", "icon": "fa-solid fa-play"}
+        ]
+    },
+    {
+        "title": "Novel Garage",
+        "description": "Built a unique AI tool that structured 100+ dream descriptions into novel formats, utilizing Stable Diffusion SDXL for story generation. • Enhanced user engagement by 30% through immersive storytelling that reflects users’ dream experiences.",
+        "image": "static/images/p3.png",
+        "tags": ["SDXL", "Prompt Engineering", "Natural Language Processing", "JSON"],
+        "buttons": [
+            {"text": "GitHub", "link": "https://github.com/Saidileepkumarmukkamala/Comic-Generator", "icon": "fa-brands fa-github"},
+            {"text": "Demo", "link": "https://comic-generator.streamlit.app/", "icon": "fa-solid fa-play"}
+        ]
+    },
+    {
+        "title": "PawsibleCare AI",
+        "description": "Developed and deployed an NLP-based virtual veterinary doctor, enabling real-time consultations with over 85% accuracy on pet symptom analysis. • Streamlined the pet care experience by reducing average consultation time by 50% with Llama2 and Streamlit.",
+        "image": "static/images/p4.png",
+        "tags": ["Veterinary", "Prompting", "RAG", "Fine-tuning"],
+        "buttons": [
+            {"text": "GitHub", "link": "https://github.com/Saidileepkumarmukkamala/PawsibleCare-AI", "icon": "fa-brands fa-github"},
+            {"text": "Demo", "link": "https://pawsiblecare-ai.streamlit.app/", "icon": "fa-solid fa-play"}
+        ]
+    },
+    {
+        "title": "Emotion-Based Music Player System",
+        "description": "Engineered an emotion-driven music platform that uses OpenCV and emotion recognition APIs, successfully analyzing 1,000+ user emotional states. • Curated playlists increased user satisfaction scores by 25% with personalized music recommendations",
+        "image": "c",
+        "tags": ["Deep Learning", "Python", "CNN", "Computer Vision"],
+        "buttons": [
+            {"text": "GitHub", "link": "https://github.com/Saidileepkumarmukkamala/Emotion_Based_Music_Player", "icon": "fa-brands fa-github"},
+            {"text": "Demo", "link": "https://emotion-based-music-player.streamlit.app/", "icon": "fa-solid fa-play"}
+        ]
+    },
+    {
+        "title": "Plant Disease Detection & Pesticide Suggestion",
+        "description": "I have developed a plant disease detection system using CNN and provided information about the cause of the disease, steps to prevent it, and suggested pesticides to control the disease. This system can potentially help farmers detect and control plant diseases early, leading to higher crop yields and reduced economic losses. Further improvements can be made by incorporating other sources of data such as soil moisture, temperature, and humidity to enhance the accuracy of the disease detection.",
+        "image": "c",
+        "tags": ["Deep Learning", "Python", "CNN", "Computer Vision"],
+        "buttons": [
+            {"text": "GitHub", "link": "https://github.com/Saidileepkumarmukkamala/Plant_Disease_Detection", "icon": "fa-brands fa-github"},
+            {"text": "Demo", "link": "https://plant-disease-detection.streamlit.app/", "icon": "fa-solid fa-play"}
+        ]
+    },
+    {
+        "title": "Image Caption Generator",
+        "description": "A streamlit-based web app which will generate caption for the input image",
+        "image": "c",
+        "tags": ["Deep Learning", "Python", "CNN", "LSTM"],
+        "buttons": [
+            {"text": "GitHub", "link": "https://github.com/Saidileepkumarmukkamala/Image_Caption_Generator", "icon": "fa-brands fa-github"},
+            {"text": "Demo", "link": "https://image-caption-generator.streamlit.app/", "icon": "fa-solid fa-play"}
+        ]
+    },
+    {
+        "title": "Driver Drowsiness Detection",
+        "description": "I have developed a driver drowsiness detection app using streamlit, CNN and deployed using streamlit cloud, It can trigger an alarm sound when the driver is drowsy. This system can potentially reduce the number of accidents caused by driver drowsiness on the road. Further improvements can be made by incorporating other sensors such as steering angle, speed, and eye-tracking to enhance the accuracy of the system.",
+        "image": "c",
+        "tags": ["Deep Learning", "Python", "CNN"],
+        "buttons": [
+            {"text": "GitHub", "link": "https://github.com/Saidileepkumarmukkamala/Driver_Drowsiness_Detection", "icon": "fa-brands fa-github"},
+            {"text": "Demo", "link": "https://driverdrowsinessdetection.streamlit.app/", "icon": "fa-solid fa-play"}
+        ]
+    },
+    {
+        "title": "Landslide Segmentation",
+        "description": "A CNN based web app that can segment the landslide in given image",
+        "image": "c",
+        "tags": ["Deep Learning", "Python", "CNN"],
+        "buttons": [
+            {"text": "GitHub", "link": "https://github.com/Saidileepkumarmukkamala/LandSlide-Segementation", "icon": "fa-brands fa-github"},
+            {"text": "Demo", "link": "#", "icon": "fa-solid fa-play"}
+        ]
+    },
+    {
+        "title": "CNN Algorithm Visualizer",
+        "description": "A streamlit-based web app made by me will let us go through each and every layer of a model and will show us the output of each and every neuron to let us understand how it will highlight/extract features from an image.",
+        "image": "static/images/p6.png",
+        "tags": ["Deep Learning", "Python", "CNN"],
+        "buttons": [
+            {"text": "GitHub", "link": "https://github.com/Saidileepkumarmukkamala/CNN_Visualizer", "icon": "fa-brands fa-github"},
+            {"text": "Demo", "link": "https://cnn-visualizer.streamlit.app/", "icon": "fa-solid fa-play"}
+        ]
+    },
+    {
+        "title": "Deep Learning Repo",
+        "description": "A Github repo that showcases all of my mini deep learning projects that includes all the deep learning algorithms",
+        "image": "c",
+        "tags": ["Deep Learning", "Python", "CNN"],
+        "buttons": [
+            {"text": "GitHub", "link": "https://github.com/Saidileepkumarmukkamala/Deep-Learning", "icon": "fa-brands fa-github"},
+            {"text": "Demo", "link": "https://github.com/Saidileepkumarmukkamala/Deep-Learning", "icon": "fa-solid fa-play"}
+        ]
+    },
+    {
+        "title": "Machine Learning Repo",
+        "description": "A Github repo that showcases all of my mini machine learning projects that includes all the machine learning algorithms",
+        "image": "c",
+        "tags": ["Deep Learning", "Python", "CNN"],
+        "buttons": [
+            {"text": "GitHub", "link": "https://github.com/Saidileepkumarmukkamala/Machine-Learning", "icon": "fa-brands fa-github"},
+            {"text": "Demo", "link": "https://github.com/Saidileepkumarmukkamala/Machine-Learning", "icon": "fa-solid fa-play"}
+        ]
+    }
+]

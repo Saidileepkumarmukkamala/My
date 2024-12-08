@@ -1,0 +1,9 @@
+[
+    {
+        "date": "Mar 4, 2023",
+        "title": "Generation of Next Heatmap of India using CLSTM Architecture",
+        "description": "Conducting advanced research on predictive heatmaps using CLSTM architecture to support urban planning,targeting a 50% increase in forecast accuracy for climate-related insights.",
+        "link": "https://drive.google.com/file/d/1uBL1jvmG-kH4ZzvuUvSzaEfMKpr6vQkb/view?usp=sharing",
+        "tags": ["ConvLSTM", "ERA5", "Forecasting", "Time Series"]
+    }
+]
